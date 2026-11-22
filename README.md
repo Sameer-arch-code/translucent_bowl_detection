@@ -31,11 +31,31 @@ The algorithm makes use of these three properties.
 
 ## 💡 Detection results
 
-<p align="center">
-  <img src="src/hard/false.jpeg" alt="Input" width="400">
-  <br>
-  <b>Figure 1: Hard case with no box detected</b>
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="src/hard/false.jpeg" alt="Case 1" width="180"><br>
+      <b>Figure 1</b><br>Hard case, no box detected
+    </td>
+    <td align="center">
+      <img src="src/hard/false.jpeg" alt="Case 2" width="180"><br>
+      <b>Figure 2</b><br>Caption 2
+    </td>
+    <td align="center">
+      <img src="src/hard/false.jpeg" alt="Case 3" width="180"><br>
+      <b>Figure 3</b><br>Caption 3
+    </td>
+    <td align="center">
+      <img src="src/hard/false.jpeg" alt="Case 4" width="180"><br>
+      <b>Figure 4</b><br>Caption 4
+    </td>
+    <td align="center">
+      <img src="src/hard/false.jpeg" alt="Case 5" width="180"><br>
+      <b>Figure 5</b><br>Caption 5
+    </td>
+  </tr>
+</table>
 
 ## 💡 How It Works
 
