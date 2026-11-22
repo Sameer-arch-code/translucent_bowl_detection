@@ -35,7 +35,7 @@ The algorithm makes use of these three properties.
 <table align="center">
   <tr>
     <td align="center">
-      <img src="src/hard1/noise3.jpeg" alt="Case 1" width="180"><br>
+      <img src="src/hard1/noise3_rot.jpeg" alt="Case 1" width="180"><br>
       <b>Figure 1</b><br>Input image
     </td>
     <td align="center">
