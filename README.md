@@ -16,8 +16,16 @@
 ## 📖 Overview
 
 This repository contains a custom algorithm to detect translucent bowls or boxes.
-Instead of training a neural network, it relies on a simple geometric idea:
-a translucent container shows up as **two orange lumps of similar size, facing each other** across the object.
+Instead of training a neural network, it relies on simple geometric data.
+
+A translucent box is hard to segment directly, but its **handles** are easy to spot.
+Looking at the box, the handles have three properties:
+
+1. **Color:** the handles have a distinct color (orange or green or whatever).
+2. **Perpendicular placement:** the handles lie across from each other, and the line connecting them is perpendicular to their long axes.
+3. **Same shape and size:** both handles are of similar shape and size.
+
+The algorithm makes use of these three properties.
 
 ---
 
