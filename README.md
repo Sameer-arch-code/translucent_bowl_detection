@@ -31,7 +31,9 @@ The algorithm makes use of these three properties.
 
 ## 💡 Detection results
 
-![Detection result](src/hard/false.jpeg)
+<p align="center">
+  <img src="src/hard/false.jpeg" alt="Input" width="400">
+</p>
 
 ## 💡 How It Works
 
