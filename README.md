@@ -29,6 +29,8 @@ The algorithm makes use of these three properties.
 
 ---
 
+## 💡 Detection results
+
 ![Detection result](src/hard/false.jpeg)
 
 ## 💡 How It Works
