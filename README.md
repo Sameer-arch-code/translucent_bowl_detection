@@ -7,6 +7,7 @@
 ![Status](https://img.shields.io/badge/status-experimental-orange)
 ![Method](https://img.shields.io/badge/method-classical%20CV-blue)
 ![Color space](https://img.shields.io/badge/color%20space-HSV-yellow)
+![License](https://img.shields.io/badge/license-Apache%202.0-green)
 
 </div>
 
@@ -99,15 +100,23 @@ flowchart TD
 
 ---
 
-## 🚀 Usage
-
-```bash
-# Coming soon
-python detect_bowl.py --image path/to/image.jpg
-```
-
----
 
 ## 📄 License
 
-Add your license here.
+This project is licensed under the **Apache License 2.0**. See the [LICENSE](LICENSE) file for details.
+
+```
+Copyright 2026 <your name or organization>
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
