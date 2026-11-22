@@ -29,10 +29,12 @@ The algorithm makes use of these three properties.
 
 ---
 
+## 💡 Detection results
+
 <p align="center">
-  <b>Hard case: no box detected</b>
-  <br>
   <img src="src/hard/false.jpeg" alt="Input" width="400">
+  <br>
+  <b>Figure 1: Hard case with no box detected</b>
 </p>
 
 ## 💡 How It Works
